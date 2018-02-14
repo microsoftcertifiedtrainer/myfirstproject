@@ -1,2 +1,3 @@
-# myfirstproject
-My First Project
+# My First Project
+
+Isn't this an amazing project!
